@@ -49,7 +49,71 @@ Run the program in you editor of choice.
 
 <img width="1022" alt="Screenshot 2023-08-13 at 12 30 11" src="https://github.com/Darren0422/Databases/assets/134398985/6937e73f-6fa4-4c34-95d0-6cd256a0d825">
 
-### Comment Functionality:
+### Inputs
+
+#### MySQL Database
+#### User Prompts
+
+### Interactions
+
+#### Adding to the Database
+
+##### Add Project
+##### Add Architect
+##### Add Contractor
+##### Add Customer
+
+                            
+#### Updating the Database
+
+##### Update a Project record
+
+###### Update entire Project record
+###### Mark a project record as completed
+
+##### Update a Architect record
+##### Update a Contractor record
+##### Update a Customer record
+
+                            
+#### Deleting from the Database
+
+##### Delete a Project record
+##### Delete a Architect record
+##### Delete a Contractor record
+##### Delete a Customer record
+
+
+
+                            
+#### Searching the Database
+
+##### Search a Project record
+###### Search by Project record ID
+###### Search by Project record Name
+###### Search by Project records that must still be completed
+###### Search by Project records that are past the due date
+
+##### Search a Architect record
+###### Search by Architect record ID
+###### Search by Architect record Name
+
+##### Search a Contractor record
+###### Search by Contractor record ID
+###### Search by Contractor record Name
+
+##### Search a Customer record
+###### Search by Customer record ID
+###### Search by Customer record Name
+
+
+#### Viewing the Database
+
+##### View all Project records
+##### View all Architect records
+##### View all Contractor records
+##### View all Customer records
+
 
 ## Credits
 [Darren Chen](https://github.com/Darren0422)
