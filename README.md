@@ -52,16 +52,22 @@ Run the program in you editor of choice.
 ### Inputs
 
 #### MySQL Database
+a MySQL Database called "PoisePMS" was created.
 
-database
 <img width="626" alt="Create DB" src="https://github.com/Darren0422/Databases/assets/134398985/f5769c3e-b00c-444a-a2b4-977cc29d2601">
-tables
+
+A table for Projects, Architects, Contractors and Customers was created with various fields shown below. 
+
 <img width="626" alt="Create Tables" src="https://github.com/Darren0422/Databases/assets/134398985/64bd8a35-b794-4d7a-93ec-ac501a5eccd1">
+
 #### User Prompts
+To interact with the progam, the user is prompted to enter the number of the aspect of the menu they wish use. The user may also be prompted to enter various information regarding the aspect of the database they are interacting with. 
+Example, the user may need to enter the project name they are searching or to enter various fields of information for a Customer they are adding. 
 
 ### Interactions
+#### Main Menu
+The user is prompted to enter the number of the aspect of the menu they wish use. 
 
-mainn menu
 <img width="1093" alt="Screenshot 2023-08-13 at 13 05 29" src="https://github.com/Darren0422/Databases/assets/134398985/0d38f4ad-4aa5-4e2a-9045-374ab73c4254">
 
 #### Adding to the Database
