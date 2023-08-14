@@ -66,12 +66,12 @@ Example, the user may need to enter the project name they are searching or to en
 
 ### Interactions
 #### Main Menu
-The user is prompted to enter the number of the aspect of the menu they wish use. 
+The user is prompted to enter the number of the aspect of the menu they wish to use. 
 
 <img width="1093" alt="Screenshot 2023-08-13 at 13 05 29" src="https://github.com/Darren0422/Databases/assets/134398985/0d38f4ad-4aa5-4e2a-9045-374ab73c4254">
 
 #### Adding to the Database
-When the user selects the "Add" option, they are then prompted to enter the number of the aspect of the "Add" menu they wish use. 
+When the user selects the "Add" option, they are then prompted to enter the number of the aspect of the "Add" menu they wish to use. 
 
 <img width="1093" alt="Screenshot 2023-08-13 at 13 05 47" src="https://github.com/Darren0422/Databases/assets/134398985/373881ff-1e62-49dd-bb1e-d0c356fe7396">
 
@@ -124,12 +124,12 @@ When this option is selected, the user is prompted to enter various fields of in
 Once all the information is added, the record is added to the "Customers" table in the database. 
                             
 #### Updating the Database
-When the user selects the "Update" option, they are then prompted to enter the number of the aspect of the "Update" menu they wish use. 
+When the user selects the "Update" option, they are then prompted to enter the number of the aspect of the "Update" menu they wish to use. 
 
 <img width="1093" alt="Screenshot 2023-08-13 at 13 07 34" src="https://github.com/Darren0422/Databases/assets/134398985/58ba22bd-bd60-443f-9bce-85eb5e5e4f82">
 
 ##### Update a Project record
-When the user selects the "Update Project" option, they are then prompted to enter the number of the aspect of the "Update Project" menu they wish use. 
+When the user selects the "Update Project" option, they are then prompted to enter the number of the aspect of the "Update Project" menu they wish to use. 
 
 <img width="1093" alt="Screenshot 2023-08-13 at 13 07 44" src="https://github.com/Darren0422/Databases/assets/134398985/2728b28a-a612-43f5-8bd6-b10fc2a0a05d">
 
@@ -193,7 +193,7 @@ Once all the information is added, the record is updated in the "Customers" tabl
 
                             
 #### Deleting from the Database
-When the user selects the "Delete" option, they are then prompted to enter the number of the aspect of the "Delete" menu they wish use. 
+When the user selects the "Delete" option, they are then prompted to enter the number of the aspect of the "Delete" menu they wish to use. 
 
 <img width="1093" alt="Screenshot 2023-08-13 at 13 08 51" src="https://github.com/Darren0422/Databases/assets/134398985/d59ad54d-ddeb-46fb-a0cf-7e9255653889">
 
@@ -217,12 +217,12 @@ Once selected, the record is deleted from the "Customers" table in the database.
 
                             
 #### Searching the Database
-When the user selects the "Search" option, they are then prompted to enter the number of the aspect of the "Search" menu they wish use. 
+When the user selects the "Search" option, they are then prompted to enter the number of the aspect of the "Search" menu they wish to use. 
 
 <img width="1093" alt="Screenshot 2023-08-13 at 13 09 14" src="https://github.com/Darren0422/Databases/assets/134398985/2e62b591-dbe3-414f-a285-5b310cab69f4">
 
 ##### Search a Project record
-When the user selects the "Search Project" option, they are then prompted to enter the number of the aspect of the "Search Project" menu they wish use. 
+When the user selects the "Search Project" option, they are then prompted to enter the number of the aspect of the "Search Project" menu they wish to use. 
 
 <img width="1093" alt="Screenshot 2023-08-13 at 13 10 25" src="https://github.com/Darren0422/Databases/assets/134398985/48388cdf-c1f4-4014-8bca-a13d46054a4b">
 
@@ -243,7 +243,7 @@ When this option is selected, all existing records and corresponding information
 When this option is selected, all existing records and corresponding information of projects that are past its due date are displayed. 
 
 ##### Search a Architect record
-When the user selects the "Search Architect" option, they are then prompted to enter the number of the aspect of the "Search Architect" menu they wish use. 
+When the user selects the "Search Architect" option, they are then prompted to enter the number of the aspect of the "Search Architect" menu they wish to use. 
 
 <img width="1093" alt="Screenshot 2023-08-13 at 13 10 39" src="https://github.com/Darren0422/Databases/assets/134398985/74dea67a-a904-4122-82d9-150ab00968a3">
 
@@ -258,7 +258,7 @@ If an existing "Architect name" matches the user input, the record is displayed.
 If the "Architect name" does not match the user input, a message displays that it was not found. 
 
 ##### Search a Contractor record
-When the user selects the "Search Contractor" option, they are then prompted to enter the number of the aspect of the "Search Contractor" menu they wish use. 
+When the user selects the "Search Contractor" option, they are then prompted to enter the number of the aspect of the "Search Contractor" menu they wish to use. 
 
 <img width="1093" alt="Screenshot 2023-08-13 at 13 10 50" src="https://github.com/Darren0422/Databases/assets/134398985/49282585-ad11-4e66-9c56-a153f5564b4b">
 
@@ -273,7 +273,7 @@ If an existing "Contractor name" matches the user input, the record is displayed
 If the "Contractor name" does not match the user input, a message displays that it was not found. 
 
 ##### Search a Customer record
-When the user selects the "Search Customer" option, they are then prompted to enter the number of the aspect of the "Search Customer" menu they wish use. 
+When the user selects the "Search Customer" option, they are then prompted to enter the number of the aspect of the "Search Customer" menu they wish to use. 
 
 <img width="1093" alt="Screenshot 2023-08-13 at 13 11 00" src="https://github.com/Darren0422/Databases/assets/134398985/4039ead4-c57c-4523-800d-7438a66906ad">
 
@@ -289,7 +289,7 @@ If the "Customer name" does not match the user input, a message displays that it
 
 
 #### Viewing the Database
-When the user selects the "View" option, they are then prompted to enter the number of the aspect of the "View" menu they wish use. 
+When the user selects the "View" option, they are then prompted to enter the number of the aspect of the "View" menu they wish to use. 
 
 <img width="1093" alt="Screenshot 2023-08-13 at 13 13 03" src="https://github.com/Darren0422/Databases/assets/134398985/233c373b-6c02-486c-9582-e7a34dc45086">
 
@@ -307,6 +307,8 @@ When this option is selected, all the records from the "Customers" table in the 
 
 #### Exit
 When the user selects the "Exit" option, the program terminates.
+
+<img width="1093" alt="Screenshot 2023-08-14 at 10 31 52" src="https://github.com/Darren0422/Databases/assets/134398985/234b4bc9-435e-4a0a-804b-b8ccb113e665">
 
 ## Credits
 [Darren Chen](https://github.com/Darren0422)
