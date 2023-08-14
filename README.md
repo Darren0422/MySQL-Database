@@ -76,11 +76,52 @@ When the user selects the "Add" option, they are then prompted to enter the numb
 <img width="1093" alt="Screenshot 2023-08-13 at 13 05 47" src="https://github.com/Darren0422/Databases/assets/134398985/373881ff-1e62-49dd-bb1e-d0c356fe7396">
 
 ##### Add Project
-When this option 
-##### Add Architect
-##### Add Contractor
-##### Add Customer
+When this option is selected, the user is prompted to enter various fields of information:
 
+- Project name
+- Building type
+- Projects physical address
+- ERF number
+- Total fee
+- Amount still to be paid
+- Project deadline date
+- Is the project finalised
+- Project completion date
+- Select a Architect
+- Select a Contractor
+- Select a Customer
+
+Once all the information is added, the record is added to the "Projects" table in the database. 
+
+##### Add Architect
+When this option is selected, the user is prompted to enter various fields of information:
+
+- Architect name
+- Architect telephone number
+- Architect email address
+- Architect physical address
+
+Once all the information is added, the record is added to the "Architects" table in the database. 
+
+##### Add Contractor
+When this option is selected, the user is prompted to enter various fields of information:
+
+- Customer name
+- Customer telephone number
+- Contractor email address
+- Contractor physical address
+
+Once all the information is added, the record is added to the "Contractors" table in the database. 
+
+##### Add Customer
+When this option is selected, the user is prompted to enter various fields of information:
+
+- Customer name
+- Customer telephone number
+- Customer email address
+- Customer physical address
+
+Once all the information is added, the record is added to the "Customers" table in the database. 
                             
 #### Updating the Database
 When the user selects the "Update" option, they are then prompted to enter the number of the aspect of the "Update" menu they wish use. 
@@ -93,11 +134,62 @@ When the user selects the "Update Project" option, they are then prompted to ent
 <img width="1093" alt="Screenshot 2023-08-13 at 13 07 44" src="https://github.com/Darren0422/Databases/assets/134398985/2728b28a-a612-43f5-8bd6-b10fc2a0a05d">
 
 ###### Update entire Project record
+When this option is selected, the user is prompted to enter the "Project ID" they would like to update. They are then prompted to update various fields of information:
+
+- Project name
+- Building type
+- Projects physical address
+- ERF number
+- Total fee
+- Amount still to be paid
+- Project deadline date
+- Is the project finalised
+- Project completion date
+- Select a Architect
+- Select a Contractor
+- Select a Customer
+
+Once all the information is added, the record is updated in the "Projects" table in the database.
+
 ###### Mark a project record as completed
+When this option is selected, the user is prompted to enter the "Project ID" they would like to mark as complete. They are then prompted to update various fields of information:
+
+- Project completion date
+
+Once all the information is added, the record is updated in the "Projects" table in the database.
 
 ##### Update a Architect record
+When this option is selected, the user is prompted to enter the "Architect ID" they would like to update. They are then prompted to update various fields of information:
+
+- Architect name
+- Architect telephone number
+- Architect email address
+- Architect physical address
+
+Once all the information is added, the record is updated in the "Architects" table in the database. 
+
 ##### Update a Contractor record
+When this option is selected, the user is prompted to enter the "Contractor ID" they would like to update. They are then prompted to update various fields of information:
+
+- Customer name
+- Customer telephone number
+- Contractor email address
+- Contractor physical address
+
+Once all the information is added, the record is updated in the "Contractors" table in the database. 
+
 ##### Update a Customer record
+When this option is selected, the user is prompted to enter the "Customer ID" they would like to update. They are then prompted to update various fields of information:
+
+- Customer name
+- Customer telephone number
+- Customer email address
+- Customer physical address
+
+Once all the information is added, the record is updated in the "Customers" table in the database. 
+
+
+
 
                             
 #### Deleting from the Database
@@ -106,9 +198,20 @@ When the user selects the "Delete" option, they are then prompted to enter the n
 <img width="1093" alt="Screenshot 2023-08-13 at 13 08 51" src="https://github.com/Darren0422/Databases/assets/134398985/d59ad54d-ddeb-46fb-a0cf-7e9255653889">
 
 ##### Delete a Project record
+When this option is selected, the user is prompted to enter the "Project ID" they would like to delete. 
+Once selected, the record is deleted from the "Projects" table in the database. 
+
 ##### Delete a Architect record
+When this option is selected, the user is prompted to enter the "Architect ID" they would like to delete. 
+Once selected, the record is deleted from the "Architects" table in the database. 
+
 ##### Delete a Contractor record
+When this option is selected, the user is prompted to enter the "Contractor ID" they would like to delete. 
+Once selected, the record is deleted from the "Contractors" table in the database. 
+
 ##### Delete a Customer record
+When this option is selected, the user is prompted to enter the "Customer ID" they would like to delete. 
+Once selected, the record is deleted from the "Customers" table in the database. 
 
 
 
@@ -124,9 +227,20 @@ When the user selects the "Search Project" option, they are then prompted to ent
 <img width="1093" alt="Screenshot 2023-08-13 at 13 10 25" src="https://github.com/Darren0422/Databases/assets/134398985/48388cdf-c1f4-4014-8bca-a13d46054a4b">
 
 ###### Search by Project record ID
+When this option is selected, the user is prompted to enter the "Project ID" they would like to search. 
+If an existing "Project ID" matches the user input, the record is displayed. 
+If the "Project ID" does not match the user input, a message displays that it was not found. 
+
 ###### Search by Project record Name
+When this option is selected, the user is prompted to enter the "Project name" they would like to search. 
+If an existing "Project name" matches the user input, the record is displayed. 
+If the "Project name" does not match the user input, a message displays that it was not found. 
+
 ###### Search by Project records that must still be completed
+When this option is selected, all existing records and corresponding information of projects that must still be completed are displayed. 
+
 ###### Search by Project records that are past the due date
+When this option is selected, all existing records and corresponding information of projects that are past its due date are displayed. 
 
 ##### Search a Architect record
 When the user selects the "Search Architect" option, they are then prompted to enter the number of the aspect of the "Search Architect" menu they wish use. 
@@ -134,7 +248,14 @@ When the user selects the "Search Architect" option, they are then prompted to e
 <img width="1093" alt="Screenshot 2023-08-13 at 13 10 39" src="https://github.com/Darren0422/Databases/assets/134398985/74dea67a-a904-4122-82d9-150ab00968a3">
 
 ###### Search by Architect record ID
+When this option is selected, the user is prompted to enter the "Architect ID" they would like to search. 
+If an existing "Architect ID" matches the user input, the record is displayed. 
+If the "Architect ID" does not match the user input, a message displays that it was not found. 
+
 ###### Search by Architect record Name
+When this option is selected, the user is prompted to enter the "Architect name" they would like to search. 
+If an existing "Architect name" matches the user input, the record is displayed. 
+If the "Architect name" does not match the user input, a message displays that it was not found. 
 
 ##### Search a Contractor record
 When the user selects the "Search Contractor" option, they are then prompted to enter the number of the aspect of the "Search Contractor" menu they wish use. 
@@ -142,7 +263,14 @@ When the user selects the "Search Contractor" option, they are then prompted to 
 <img width="1093" alt="Screenshot 2023-08-13 at 13 10 50" src="https://github.com/Darren0422/Databases/assets/134398985/49282585-ad11-4e66-9c56-a153f5564b4b">
 
 ###### Search by Contractor record ID
+When this option is selected, the user is prompted to enter the "Contractor ID" they would like to search. 
+If an existing "Contractor ID" matches the user input, the record is displayed. 
+If the "Contractor ID" does not match the user input, a message displays that it was not found. 
+
 ###### Search by Contractor record Name
+When this option is selected, the user is prompted to enter the "Contractor name" they would like to search. 
+If an existing "Contractor name" matches the user input, the record is displayed.  
+If the "Contractor name" does not match the user input, a message displays that it was not found. 
 
 ##### Search a Customer record
 When the user selects the "Search Customer" option, they are then prompted to enter the number of the aspect of the "Search Customer" menu they wish use. 
@@ -150,7 +278,14 @@ When the user selects the "Search Customer" option, they are then prompted to en
 <img width="1093" alt="Screenshot 2023-08-13 at 13 11 00" src="https://github.com/Darren0422/Databases/assets/134398985/4039ead4-c57c-4523-800d-7438a66906ad">
 
 ###### Search by Customer record ID
+When this option is selected, the user is prompted to enter the "Customer ID" they would like to search. 
+If an existing "Customer ID" matches the user input, the record is displayed.  
+If the "Customer ID" does not match the user input, a message displays that it was not found. 
+
 ###### Search by Customer record Name
+When this option is selected, the user is prompted to enter the "Customer name" they would like to search. 
+If an existing "Customer name" matches the user input, the record is displayed.  
+If the "Customer name" does not match the user input, a message displays that it was not found. 
 
 
 #### Viewing the Database
@@ -159,9 +294,16 @@ When the user selects the "View" option, they are then prompted to enter the num
 <img width="1093" alt="Screenshot 2023-08-13 at 13 13 03" src="https://github.com/Darren0422/Databases/assets/134398985/233c373b-6c02-486c-9582-e7a34dc45086">
 
 ##### View all Project records
+When this option is selected, all the records from the "Projects" table in the database is displayed. 
+
 ##### View all Architect records
+When this option is selected, all the records from the "Architects" table in the database is displayed. 
+
 ##### View all Contractor records
+When this option is selected, all the records from the "Contractors" table in the database is displayed. 
+
 ##### View all Customer records
+When this option is selected, all the records from the "Customers" table in the database is displayed. 
 
 #### Exit
 When the user selects the "Exit" option, the program terminates.
