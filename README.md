@@ -73,7 +73,7 @@ The user is prompted to enter the number of the aspect of the menu they wish to 
 #### Adding to the Database
 When the user selects the "Add" option, they are then prompted to enter the number of the aspect of the "Add" menu they wish to use. 
 
-<img width="1093" alt="Screenshot 2023-08-13 at 13 05 47" src="https://github.com/Darren0422/Databases/assets/134398985/373881ff-1e62-49dd-bb1e-d0c356fe7396">
+<img width="1084" alt="Screenshot 2023-08-15 at 08 54 53" src="https://github.com/Darren0422/Databases/assets/134398985/d35fdfcb-424b-4a5d-9111-d022c9db0c8a">
 
 ##### Add Project
 When this option is selected, the user is prompted to enter various fields of information:
@@ -126,12 +126,12 @@ Once all the information is added, the record is added to the "Customers" table 
 #### Updating the Database
 When the user selects the "Update" option, they are then prompted to enter the number of the aspect of the "Update" menu they wish to use. 
 
-<img width="1093" alt="Screenshot 2023-08-13 at 13 07 34" src="https://github.com/Darren0422/Databases/assets/134398985/58ba22bd-bd60-443f-9bce-85eb5e5e4f82">
+<img width="1084" alt="Screenshot 2023-08-15 at 08 56 00" src="https://github.com/Darren0422/Databases/assets/134398985/3798b825-15b3-4c74-b631-d32386632b84">
 
 ##### Update a Project record
 When the user selects the "Update Project" option, they are then prompted to enter the number of the aspect of the "Update Project" menu they wish to use. 
 
-<img width="1093" alt="Screenshot 2023-08-13 at 13 07 44" src="https://github.com/Darren0422/Databases/assets/134398985/2728b28a-a612-43f5-8bd6-b10fc2a0a05d">
+<img width="1084" alt="Screenshot 2023-08-15 at 08 58 49" src="https://github.com/Darren0422/Databases/assets/134398985/6bb23b2a-6593-48b6-80d5-02f6101eb43f">
 
 ###### Update entire Project record
 When this option is selected, the user is prompted to enter the "Project ID" they would like to update. They are then prompted to update various fields of information:
@@ -157,6 +157,8 @@ When this option is selected, the user is prompted to enter the "Project ID" the
 - Project completion date
 
 Once all the information is added, the record is updated in the "Projects" table in the database.
+
+###### Back to Main Menu
 
 ##### Update a Architect record
 When this option is selected, the user is prompted to enter the "Architect ID" they would like to update. They are then prompted to update various fields of information:
@@ -195,7 +197,7 @@ Once all the information is added, the record is updated in the "Customers" tabl
 #### Deleting from the Database
 When the user selects the "Delete" option, they are then prompted to enter the number of the aspect of the "Delete" menu they wish to use. 
 
-<img width="1093" alt="Screenshot 2023-08-13 at 13 08 51" src="https://github.com/Darren0422/Databases/assets/134398985/d59ad54d-ddeb-46fb-a0cf-7e9255653889">
+<img width="1084" alt="Screenshot 2023-08-15 at 08 56 07" src="https://github.com/Darren0422/Databases/assets/134398985/8d9594d9-a012-4bca-aa78-7aeadea4b26c">
 
 ##### Delete a Project record
 When this option is selected, the user is prompted to enter the "Project ID" they would like to delete. 
@@ -219,12 +221,12 @@ Once selected, the record is deleted from the "Customers" table in the database.
 #### Searching the Database
 When the user selects the "Search" option, they are then prompted to enter the number of the aspect of the "Search" menu they wish to use. 
 
-<img width="1093" alt="Screenshot 2023-08-13 at 13 09 14" src="https://github.com/Darren0422/Databases/assets/134398985/2e62b591-dbe3-414f-a285-5b310cab69f4">
+<img width="1084" alt="Screenshot 2023-08-15 at 08 56 14" src="https://github.com/Darren0422/Databases/assets/134398985/a280162c-39c1-4e29-8ebf-ee2a877dff28">
 
 ##### Search a Project record
 When the user selects the "Search Project" option, they are then prompted to enter the number of the aspect of the "Search Project" menu they wish to use. 
 
-<img width="1093" alt="Screenshot 2023-08-13 at 13 10 25" src="https://github.com/Darren0422/Databases/assets/134398985/48388cdf-c1f4-4014-8bca-a13d46054a4b">
+<img width="1084" alt="Screenshot 2023-08-15 at 08 59 53" src="https://github.com/Darren0422/Databases/assets/134398985/172ab383-586d-4db4-a9cf-f3572bcccc78">
 
 ###### Search by Project record ID
 When this option is selected, the user is prompted to enter the "Project ID" they would like to search. 
@@ -245,7 +247,7 @@ When this option is selected, all existing records and corresponding information
 ##### Search a Architect record
 When the user selects the "Search Architect" option, they are then prompted to enter the number of the aspect of the "Search Architect" menu they wish to use. 
 
-<img width="1093" alt="Screenshot 2023-08-13 at 13 10 39" src="https://github.com/Darren0422/Databases/assets/134398985/74dea67a-a904-4122-82d9-150ab00968a3">
+<img width="1084" alt="Screenshot 2023-08-15 at 09 00 06" src="https://github.com/Darren0422/Databases/assets/134398985/6dffed39-0c95-43ae-b978-7de43d2a4c9d">
 
 ###### Search by Architect record ID
 When this option is selected, the user is prompted to enter the "Architect ID" they would like to search. 
@@ -260,7 +262,7 @@ If the "Architect name" does not match the user input, a message displays that i
 ##### Search a Contractor record
 When the user selects the "Search Contractor" option, they are then prompted to enter the number of the aspect of the "Search Contractor" menu they wish to use. 
 
-<img width="1093" alt="Screenshot 2023-08-13 at 13 10 50" src="https://github.com/Darren0422/Databases/assets/134398985/49282585-ad11-4e66-9c56-a153f5564b4b">
+<img width="1084" alt="Screenshot 2023-08-15 at 09 01 17" src="https://github.com/Darren0422/Databases/assets/134398985/8e8d8f3e-e4e6-42f1-9c6f-e451c7e8a811">
 
 ###### Search by Contractor record ID
 When this option is selected, the user is prompted to enter the "Contractor ID" they would like to search. 
@@ -275,8 +277,7 @@ If the "Contractor name" does not match the user input, a message displays that 
 ##### Search a Customer record
 When the user selects the "Search Customer" option, they are then prompted to enter the number of the aspect of the "Search Customer" menu they wish to use. 
 
-<img width="1093" alt="Screenshot 2023-08-13 at 13 11 00" src="https://github.com/Darren0422/Databases/assets/134398985/4039ead4-c57c-4523-800d-7438a66906ad">
-
+<img width="1084" alt="Screenshot 2023-08-15 at 09 01 36" src="https://github.com/Darren0422/Databases/assets/134398985/ac5a8836-6151-4474-8e51-f91b49a624fa">
 ###### Search by Customer record ID
 When this option is selected, the user is prompted to enter the "Customer ID" they would like to search. 
 If an existing "Customer ID" matches the user input, the record is displayed.  
@@ -291,7 +292,7 @@ If the "Customer name" does not match the user input, a message displays that it
 #### Viewing the Database
 When the user selects the "View" option, they are then prompted to enter the number of the aspect of the "View" menu they wish to use. 
 
-<img width="1093" alt="Screenshot 2023-08-13 at 13 13 03" src="https://github.com/Darren0422/Databases/assets/134398985/233c373b-6c02-486c-9582-e7a34dc45086">
+<img width="1084" alt="Screenshot 2023-08-15 at 08 56 21" src="https://github.com/Darren0422/Databases/assets/134398985/5376679b-b86c-40f7-93de-0fc9b2a5e029">
 
 ##### View all Project records
 When this option is selected, all the records from the "Projects" table in the database is displayed. 
