@@ -122,6 +122,9 @@ When this option is selected, the user is prompted to enter various fields of in
 - Customer physical address
 
 Once all the information is added, the record is added to the "Customers" table in the database. 
+
+##### Back to Main Menu
+When this option is selected, the user is displayed the main menu.
                             
 #### Updating the Database
 When the user selects the "Update" option, they are then prompted to enter the number of the aspect of the "Update" menu they wish to use. 
@@ -159,6 +162,7 @@ When this option is selected, the user is prompted to enter the "Project ID" the
 Once all the information is added, the record is updated in the "Projects" table in the database.
 
 ###### Back to Main Menu
+When this option is selected, the user is displayed the main menu.
 
 ##### Update a Architect record
 When this option is selected, the user is prompted to enter the "Architect ID" they would like to update. They are then prompted to update various fields of information:
@@ -190,6 +194,9 @@ When this option is selected, the user is prompted to enter the "Customer ID" th
 
 Once all the information is added, the record is updated in the "Customers" table in the database. 
 
+##### Back to Main Menu
+When this option is selected, the user is displayed the main menu.
+
 
 
 
@@ -215,6 +222,8 @@ Once selected, the record is deleted from the "Contractors" table in the databas
 When this option is selected, the user is prompted to enter the "Customer ID" they would like to delete. 
 Once selected, the record is deleted from the "Customers" table in the database. 
 
+##### Back to Main Menu
+When this option is selected, the user is displayed the main menu.
 
 
                             
@@ -244,6 +253,9 @@ When this option is selected, all existing records and corresponding information
 ###### Search by Project records that are past the due date
 When this option is selected, all existing records and corresponding information of projects that are past its due date are displayed. 
 
+###### Back to Main Menu
+When this option is selected, the user is displayed the main menu.
+
 ##### Search a Architect record
 When the user selects the "Search Architect" option, they are then prompted to enter the number of the aspect of the "Search Architect" menu they wish to use. 
 
@@ -258,6 +270,9 @@ If the "Architect ID" does not match the user input, a message displays that it 
 When this option is selected, the user is prompted to enter the "Architect name" they would like to search. 
 If an existing "Architect name" matches the user input, the record is displayed. 
 If the "Architect name" does not match the user input, a message displays that it was not found. 
+
+###### Back to Main Menu
+When this option is selected, the user is displayed the main menu.
 
 ##### Search a Contractor record
 When the user selects the "Search Contractor" option, they are then prompted to enter the number of the aspect of the "Search Contractor" menu they wish to use. 
@@ -274,6 +289,9 @@ When this option is selected, the user is prompted to enter the "Contractor name
 If an existing "Contractor name" matches the user input, the record is displayed.  
 If the "Contractor name" does not match the user input, a message displays that it was not found. 
 
+###### Back to Main Menu
+When this option is selected, the user is displayed the main menu.
+
 ##### Search a Customer record
 When the user selects the "Search Customer" option, they are then prompted to enter the number of the aspect of the "Search Customer" menu they wish to use. 
 
@@ -287,6 +305,13 @@ If the "Customer ID" does not match the user input, a message displays that it w
 When this option is selected, the user is prompted to enter the "Customer name" they would like to search. 
 If an existing "Customer name" matches the user input, the record is displayed.  
 If the "Customer name" does not match the user input, a message displays that it was not found. 
+
+###### Back to Main Menu
+When this option is selected, the user is displayed the main menu.
+
+##### Back to Main Menu
+When this option is selected, the user is displayed the main menu.
+
 
 
 #### Viewing the Database
@@ -305,6 +330,9 @@ When this option is selected, all the records from the "Contractors" table in th
 
 ##### View all Customer records
 When this option is selected, all the records from the "Customers" table in the database is displayed. 
+
+##### Back to Main Menu
+When this option is selected, the user is displayed the main menu.
 
 #### Exit
 When the user selects the "Exit" option, the program terminates.
